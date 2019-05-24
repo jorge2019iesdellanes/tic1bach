@@ -1,4 +1,8 @@
 <?php
    echo "Hola mundo\n";
    echo "Hace un buen día para estudiar TIC\n";
-?>
+   echo "mi nombre es Jorge y hoy tenfo un buen día.\n"
+   $k= "hoy es un buen día";
+   $p= "para ir a la graduación";
+   echo $k."\n".$p."\n";
+ ?>
